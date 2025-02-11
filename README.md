@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Larissa</h1>
 <h3 align="center">Lifelong crafter combining my love of form with my passion for functional design in a new medium, computer programming 👩‍💻</h3>
 
-- 🔭 I’m currently working on a new crafty project called 🧶🧵sewfolio🧵🧶 (an app for cataloging my fabric stash!)
+- 🔭 I’m currently working on a new crafty project called 🧶🧵swatchfolio🧵🧶 (an app for cataloging my fabric stash!)
 
 - 🌱 I’m currently learning more about **Python (via Scrimba)** and **Django (via Dennis Ivy's Teachable course)**
 
